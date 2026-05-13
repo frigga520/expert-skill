@@ -1,9 +1,7 @@
-skills/expert/*
 knowledge/*
 __pycache__/
 *.pyc
 .DS_Store
-.claude
 .vscode
 .pytest_cache/
 .pytest_tmp/
